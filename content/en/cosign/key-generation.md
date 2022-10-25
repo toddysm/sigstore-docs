@@ -35,3 +35,5 @@ MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXc+DQU8Pb7Xo2RWCjFG/f6qbdABN
 jnVtSyKZxNzBfNMLLtVxdu8q+AigrGCS2KPmejda9bICTcHQCRUrD5OLGQ==
 -----END PUBLIC KEY-----
 ```
+
+**Note:** If you are generating keys using your KMS provider or by some other means than Cosign CLI, make sure the keys are from type *EC* or *EC-HMS*. *RSA* keys are not supported.
