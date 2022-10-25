@@ -90,7 +90,7 @@ email:ctadeu@gmail.com
 
 OK, so we can see that a Fulcio-generated certificate, with a chain to the root certificate has the email identity of a sigstore maintainer (in this instance, our own release manager the awesome Carlos).
 
-If you wanted to besuper paranoid, you could email Carlos and ask him to give you assurance he is Carlos and he signed the release.
+If you wanted to be super paranoid, you could email Carlos and ask him to give you assurance he is Carlos and he signed the release.
 
 #### Verify the entry is in the transparency log
 
